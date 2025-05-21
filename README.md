@@ -97,7 +97,7 @@ Result: commans disabled for all users in the **HR and IT OU**.
 - AD Domain Structure
 - GPO Editor Screenshot
 - PC joined to domain
-- Result of denied USB access
+- [Result of denied shutdown command access](https://github.com/namecheap-tech/Active-Directory-Simulation-CyberTech-Solutions/blob/main/Screenshots/Access_denied.png)
 
 ---
 
