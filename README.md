@@ -94,9 +94,9 @@ Result: commans disabled for all users in the **HR and IT OU**.
 
 ## Screenshots
 
-- AD Domain Structure
-- GPO Editor Screenshot
-- PC joined to domain
+- [AD Domain Structure](https://github.com/namecheap-tech/Active-Directory-Simulation-CyberTech-Solutions/blob/main/Screenshots/OUs_Groups_Users.png)
+- [GPO Editor Screenshot](https://github.com/namecheap-tech/Active-Directory-Simulation-CyberTech-Solutions/blob/main/Screenshots/Group_policy_management.png)
+- [PC joined to domain](https://github.com/namecheap-tech/Active-Directory-Simulation-CyberTech-Solutions/blob/main/Screenshots/windows_machine_connection.png)
 - [Result of denied shutdown command access](https://github.com/namecheap-tech/Active-Directory-Simulation-CyberTech-Solutions/blob/main/Screenshots/Access_denied.png)
 
 ---
